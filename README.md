@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <br>
 
 ### 📫 How to reach me:
-<br>
  <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> &nbsp;
   <a href="https://t.me/iskandarovoff?fbclid=PAAaYAZPjh8VXHYWxKzX3A-MY3bHnaUnDLrihonJBo1zN25PG6cjnfd9Q0iqE">Telegram</a>
 
