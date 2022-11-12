@@ -1,4 +1,4 @@
-### Hi I'm Akbar Iskanderov <img src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="20px">
+### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z.giphy.gif" width="27px">
 
 <!--
 **iskanderovo3/iskanderovo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
