@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am interested in singing, playing football, watching football matches
 
 ### Languages and Tools I work with:
-<code> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"> </code>
+<code> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20px"> </code>
 
 
 - 📫 How to reach me:
