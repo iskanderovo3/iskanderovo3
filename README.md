@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m a prospective Frontend Developer
 - 🌱 I’m currently learning Javascript
-- 💬 Ask me about anything 
+- 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I am interested in singing, playing football, watching football matches
 
@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
 
 <br>
+
+### 📍 &nbsp;Current location:
+- Tashkent, Uzbekistan
 
 ### 📫 How to reach me:
  <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> &nbsp;
