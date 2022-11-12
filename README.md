@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Languages and Tools I work with:
 <code> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20px"> </code>
 <code> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20px"> </code>
-<code> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20px"> </code>
+<code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code>
 
 
 - 📫 How to reach me:
