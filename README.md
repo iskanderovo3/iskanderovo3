@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I am interested in singing, playing football, watching football matches
 
+### Languages and Tools I work with:
+<code> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"> </code>
+
 
 - 📫 How to reach me:
 - <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> 
