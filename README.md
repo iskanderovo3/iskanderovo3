@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <code> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
-
-- 📫 How to reach me:
 <br>
-- <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> &nbsp; &nbsp;
+### 📫 How to reach me:
+<br>
+ <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> &nbsp;
   <a href="https://t.me/iskandarovoff?fbclid=PAAaYAZPjh8VXHYWxKzX3A-MY3bHnaUnDLrihonJBo1zN25PG6cjnfd9Q0iqE">Telegram</a>
 
 
