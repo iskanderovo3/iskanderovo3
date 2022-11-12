@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-- <a href="https://www.instagram.com/iskanderovv.o3/#"><img src="https://user-images.githubusercontent.com/117995945/201471386-c4acfb0c-9344-470a-8808-65b981075423.png)
-" width="25px"></a>
+- <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a>
   <a href="https://t.me/iskandarovoff?fbclid=PAAaYAZPjh8VXHYWxKzX3A-MY3bHnaUnDLrihonJBo1zN25PG6cjnfd9Q0iqE">Telegram</a>
 
 
