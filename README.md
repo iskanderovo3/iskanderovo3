@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code>
 
 - 📫 How to reach me:
-- <a href="https://www.instagram.com/iskanderovv.o3/#"><code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code></a> 
+- <a href="https://www.instagram.com/iskanderovv.o3/#"><code> <img src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" width="20px"> </code></a> 
   <a href="https://t.me/iskandarovoff?fbclid=PAAaYAZPjh8VXHYWxKzX3A-MY3bHnaUnDLrihonJBo1zN25PG6cjnfd9Q0iqE">Telegram</a>
 
 
