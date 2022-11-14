@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m a prospective Frontend Developer
 - 🌱 I’m currently learning Javascript
+- 🌱 I'm gonna learn React, Typescript, Jquery and Sass 
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I am interested in singing, playing football, watching football matches
