@@ -19,6 +19,7 @@
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20px"> </code> &nbsp; &nbsp;
 
 
 
