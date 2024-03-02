@@ -1,4 +1,4 @@
-### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+![image](https://github.com/iskanderovo3/iskanderovo3/assets/117995945/fdc9a705-7558-49b7-a37f-325c90401b68)### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
 
 - 🔭 I’m a prospective Frontend Developer.
@@ -17,6 +17,7 @@
 <code> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://www.flaticon.com/free-icon/sass_5968358?term=sass&page=1&position=2&origin=search&related_id=5968358" width="20px"> </code> &nbsp; &nbsp;
 
 
 
