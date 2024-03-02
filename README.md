@@ -18,7 +18,7 @@
 <code> <img src="https://thumbnail.imgbin.com/4/16/4/imgbin-sass-cascading-style-sheets-preprocessor-less-postcss-meng-uwgxZ0nWdzVLrKB6BCTaPGfLc_t.jpg" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
-<code> <img src="[https://cdn-icons-png.flaticon.com/512/5968/5968292.png](https://icon2.cleanpng.com/20191103/ho/transparent-js-icon-logo-icon-react-icon-5dbea1da3071a5.5168401015727743621985.jpg)https://icon2.cleanpng.com/20191103/ho/transparent-js-icon-logo-icon-react-icon-5dbea1da3071a5.5168401015727743621985.jpg" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://e7.pngegg.com/pngimages/255/1006/png-clipart-react-javascript-webbylab-computer-icons-angularjs-github-text-logo.png" width="20px"> </code> &nbsp; &nbsp;
 
 
 
