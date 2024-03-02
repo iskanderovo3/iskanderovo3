@@ -17,7 +17,7 @@
 <code> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> </code> &nbsp; &nbsp;
-<code> <img src="https://www.flaticon.com/free-icon/sass_5968358?term=sass&page=1&position=2&origin=search&related_id=5968358&k=1709370010318&log-in=google" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="[https://www.flaticon.com/free-icon/sass_5968358?term=sass&page=1&position=2&origin=search&related_id=5968358&k=1709370010318&log-in=google](https://luxe-host.ru/wp-content/uploads/6/d/8/6d81a322eb9613d05c287644be923eea.jpeg)https://luxe-host.ru/wp-content/uploads/6/d/8/6d81a322eb9613d05c287644be923eea.jpeg" width="20px"> </code> &nbsp; &nbsp;
 
 
 
