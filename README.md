@@ -1,19 +1,15 @@
 ### Hi I'm Akbar Iskanderov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-<!--
-**iskanderovo3/iskanderovo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m a prospective Frontend Developer.
 - 🌱 I’m currently learning React Js.
-- 🌱 I'm gonna learn React Js, Typescript, Jquery and Sass, Vue Js, Tailwind css...
+- 🌱 I'm gonna learn Sass, React Js, Typescript, Next Js, Tailwind css...
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
 - ⚡ Fun fact: I am interested in singing, playing football and watching football matches.
 - 📍 &nbsp;Current location: Tashkent, Uzbekistan.
-- 📫 How to reach me: <a href="https://www.instagram.com/iskanderovv.o3/#">Instagram</a> &nbsp;
-  <a href="https://t.me/iskanderov-dev">Telegram</a>
+- 📫 How to reach me: <a href="https://www.instagram.com/iskanderovoff/#">Instagram</a> &nbsp;
+  <a href="https://t.me/akbar_iskanderov">Telegram</a>
 
 ### Languages and Tools I work with:
 <br>
