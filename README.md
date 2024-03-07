@@ -21,7 +21,7 @@
 <code> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20px"> </code> &nbsp; &nbsp;
 <code> <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" width="20px"> </code> &nbsp; &nbsp;
-<code> <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="20px"> </code> &nbsp; &nbsp;
+<code> <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" width="20px"> </code> &nbsp; &nbsp;
 
 
 
