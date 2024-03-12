@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a prospective Frontend Developer.
-- 🌱 I’m currently learning React Js.
+- 🌱 I’m currently learning Javascipt.
 - 🌱 I'm gonna learn Sass, React Js, Typescript, Next Js, Tailwind css...
 - 💬 Ask me about anything, I am happy to help.
 - 😄 Pronouns: he / his.
